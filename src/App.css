@@ -187,12 +187,7 @@ button{
     align-items: center;
     gap: 20%;
 }
-.about p{
-    
-}
-.about img{
-    
-}
+
 
 @media(min-width: 1000px){
     .news{
